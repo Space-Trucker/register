@@ -1,4 +1,3 @@
-
 {
   "owner": {
     "username": "space-trucker",
@@ -6,7 +5,9 @@
   },
   "records": {
     "CNAME": "kashif-shafiq.com",
-    "TXT": ["vc-domain-verify=kashifshafiq.is-a.dev,3ef03255d64104f7d7e2"]
+    "TXT": {
+      "_vercel": "vc-domain-verify=kashifshafiq.is-a.dev,3ef03255d64104f7d7e2"
+    }
   },
   "proxied": true
 }
